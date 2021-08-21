@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-flexbox-bem-javascript-6kfqHHCRH]()
-- Live Site URL: [https://brkcln.github.io/Article-preview-component/]()
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-flexbox-bem-javascript-6kfqHHCRH](https://www.frontendmentor.io/solutions/article-preview-component-flexbox-bem-javascript-6kfqHHCRH)
+- Live Site URL: [https://brkcln.github.io/Article-preview-component/](https://brkcln.github.io/Article-preview-component/)
 
 ### Built with
 
